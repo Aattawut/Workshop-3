@@ -1,0 +1,49 @@
+.mm{
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    
+}
+.col-mg{
+    margin-bottom: 2% !important;
+}
+.bg-sh{
+    box-shadow: 5px 5px 5px rgb(160, 160, 160)!important;
+}
+.aa{
+    margin-bottom: 0% !important;
+}
+#button-add{
+    display: flex;
+    justify-content:center;
+    align-items: inherit;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+.btnn{
+    
+    margin: 0 !important;
+    
+}
+.ico{
+    /* left: 0 !important;
+    right: 0 !important; */
+    text-align: center !important;
+}
+.btn-row{
+    /* position: absolute !important; */
+    position: relative;
+    /* padding: 1%; */
+    bottom: 0 !important;
+    
+}
+.btn-atc{
+    /* position: absolute !important; */
+    position: relative;
+    /* padding: 1%; */
+    bottom: 0 !important;
+    
+}
+.ui.input>input {
+    text-align: center !important;
+  }

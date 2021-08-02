@@ -1,0 +1,53 @@
+export const GET_USERS = 'GET_USERS';
+export const USERS_ERROR = 'USERS_ERROR'
+
+
+// export const DELETE_CART = 'DELETE_CART'
+export const GET_CATEGORY_NAVBAR = 'GET_CATEGORY_NAVBAR'
+export const GET_CATEGORY_NAVBAR_ERROR = 'GET_CATEGORY_NAVBAR_ERROR'
+
+export const SET_AUTH = 'SET_AUTH'
+export const SET_TOKEN = 'SET_TOKEN'
+
+export const FETCH_START = 'FETCH_START'
+export const FETCH_END = 'FETCH_END'
+export const FETCH_ERROR = 'FETCH_ERROR'
+
+export const GET_CART = 'GET_CART'
+export const GET_CART_REQ = 'GET_CART_REQ'
+export const GET_CART_ERROR = 'GET_CART_ERROR'
+
+// export const SAGA_DELETE_CART = 'SAGA_DELETE_CART'
+export const DELETE_CART_REQ = 'DELETE_CART_REQ'
+export const DELETE_CART_ERROR = 'DELETE_CART_ERROR'
+// export const GET_CART_REQ = 'GET_CART_REQ'
+
+export const ADD_TO_CART = 'ADD_TO_CART'
+export const ADD_TO_CART_REQ = 'ADD_TO_CART_REQ'
+export const ADD_TO_CART_ERROR = 'ADD_TO_CART_ERROR'
+
+export const EDIT_CART = 'EDIT_CART'
+export const EDIT_CART_REQ = 'EDIT_CART_REQ'
+export const EDIT_CART_ERROR = 'EDIT_CART_ERROR'
+
+export const GET_INVOICE = 'GET_INVOICE'
+export const GET_INVOICE_REQ = 'GET_INVOICE_REQ'
+export const GET_INVOICE_ERROR = 'GET_INVOICE_ERROR'
+
+export const GET_INVOICE_ITEM = 'GET_INVOICE_ITEM'
+export const GET_INVOICE_ITEM_REQ = 'GET_INVOICE_ITEM_REQ'
+export const GET_INVOICE_ITEM_ERROR = 'GET_INVOICE_ITEM_ERROR'
+
+export const CHECKOUT = 'CHECKOUT'
+export const CHECKOUT_REQ = 'CHECKOUT_REQ'
+export const CHECKOUT_ERROR = 'CHECKOUT_ERROR'
+
+export const SUBMIT_VOID = 'SUBMIT_VOID'
+export const SUBMIT_VOID_REQ = 'SUBMIT_VOID_REQ'
+export const SUBMIT_VOID_ERROR = 'SUBMIT_VOID_ERROR'
+
+export const GET_CATEGORY = 'GET_CATEGORY'
+export const GET_CATEGORY_ERROR = 'GET_CATEGORY_ERROR'
+
+export const GET_SEARCH = 'GET_SEARCH'
+export const GET_SEARCH_ERROR = 'GET_SEARCH_ERROR'

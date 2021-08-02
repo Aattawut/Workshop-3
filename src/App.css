@@ -1,6 +1,11 @@
 .App {
-  text-align: center;
+  position: relative;
+  min-height: 100vh;
 }
+
+/* .App {
+  text-align: center;
+} */
 
 .App-logo {
   height: 40vmin;
@@ -11,6 +16,10 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+.App-content{
+  padding-bottom: 300px;
+
 }
 
 .App-header {

@@ -1,0 +1,55 @@
+.marg-bt{
+  margin-bottom: 5% !important;
+}
+
+@media screen and (max-width: 1200px) {
+  .marg-bt{
+    margin-bottom: 7% !important;
+  }
+  
+  }
+@media screen and (max-width: 1200px) {
+  .marg-bt{
+    margin-bottom: 8% !important;
+  }
+  
+  }
+  
+@media screen and (max-width: 900px) {
+  .marg-bt{
+    margin-bottom: 8% !important;
+  }
+  
+  }
+@media screen and (max-width: 800px) {
+  .marg-bt{
+    margin-bottom: 8% !important;
+  }
+  
+  }
+  
+@media screen and (max-width: 700px) {
+  .marg-bt{
+    margin-bottom: 15% !important;
+  }
+  
+  }
+  
+@media screen and (max-width: 500px) {
+  .marg-bt{
+    margin-bottom: 20% !important;
+  }
+  
+  }
+  
+@media screen and (max-width: 400px) {
+  .marg-bt{
+    margin-bottom: 25% !important;
+  }
+  
+  }
+  
+.text-header{
+  font-family: 'Monoton', cursive !important;
+  font-size: 24px;
+}
